@@ -5,4 +5,4 @@ for z in range(f+1,l):
     print(z,end=" ")
   else:
     continue
-adgfvsdfhh
+
